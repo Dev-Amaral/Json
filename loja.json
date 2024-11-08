@@ -1,0 +1,72 @@
+{
+    "notebook":[
+        {
+            "marca": "Samsung",
+            "modelo": "W11",
+            "valor": 2500,
+            "memoriaRAM": 4,
+            "memoriaROM": 256,
+            "processador": "i3"
+
+        },
+        {
+            "marca": "Acer",
+            "modelo": "Nitro V15",
+            "valor": 5100,
+            "memoriaRAM": 16,
+            "memoriaROM": 512,
+            "processador": "i7"
+        },
+        {
+            "marca": "Intel",
+            "modelo": "2014",
+            "valor": 500,
+            "memoriaRAM": 2,
+            "memoriaROM":128,
+            "processador": "i2"
+        }
+    ],
+    "celular":[
+        {
+            "marca": "Motorola",
+            "modelo": "i6",
+            "valor": 600,
+            "memoriaRAM": 4,
+            "memoriaROM":32,
+            "resolução": 20
+        },
+        {
+            "marca": "iPhone",
+            "modelo": "13",
+            "valor": 3527,
+            "memoriaRAM": 4,
+            "memoriaROM": 512,
+            "resolução": 48
+        },
+        {
+            "marca": "Xiaomi",
+            "modelo": "Poco X6",
+            "valor": 1812,
+            "memoriaRAM": 8,
+            "memoriaROM": 256,
+            "resolução": 64
+        }
+    ],
+    "playstation":[
+        {
+            "marca":"sony",
+            "modelo":"Playstation 5 Standart Edition",
+            "valor": 5000
+        },
+        {
+            "marca":"Xbox",
+            "modelo": "Series S",
+            "valor": 3000
+        },
+        {
+            "marca": "Nintendo",
+            "modelo": "Console",
+            "valor":2190
+        }
+    ]
+}
